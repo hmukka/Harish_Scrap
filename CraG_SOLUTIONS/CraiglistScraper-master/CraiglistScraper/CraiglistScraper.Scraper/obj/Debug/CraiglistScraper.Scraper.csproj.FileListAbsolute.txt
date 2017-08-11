@@ -1,0 +1,5 @@
+C:\Users\hmukka\Desktop\PSS\New folder\New folder\CraiglistScraper-master\CraiglistScraper\CraiglistScraper.Scraper\bin\Debug\CraiglistScraper.Scraper.dll
+C:\Users\hmukka\Desktop\PSS\New folder\New folder\CraiglistScraper-master\CraiglistScraper\CraiglistScraper.Scraper\bin\Debug\CraiglistScraper.Scraper.pdb
+C:\Users\hmukka\Desktop\PSS\New folder\New folder\CraiglistScraper-master\CraiglistScraper\CraiglistScraper.Scraper\obj\Debug\CraiglistScraper.Scraper.csprojResolveAssemblyReference.cache
+C:\Users\hmukka\Desktop\PSS\New folder\New folder\CraiglistScraper-master\CraiglistScraper\CraiglistScraper.Scraper\obj\Debug\CraiglistScraper.Scraper.dll
+C:\Users\hmukka\Desktop\PSS\New folder\New folder\CraiglistScraper-master\CraiglistScraper\CraiglistScraper.Scraper\obj\Debug\CraiglistScraper.Scraper.pdb
